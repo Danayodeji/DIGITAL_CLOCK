@@ -7,5 +7,7 @@ let getSecondsTime = document.getElementById("sec")
 // STEP 2: create a that show live time and assign hour, minutes,and seconds to new variables
 const showDigitalClock = () => {
     let getDate = new Date();
+
+    let getHour = getDate.getHours().toString().padStart(2,"0");
     
 };
