@@ -12,7 +12,7 @@ body{
     width: 100%;
 }
 .clock_hold{
-    display: flex;
-    
+    display: flex; 
+    align-items: center;   
     
 }
