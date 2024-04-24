@@ -4,3 +4,4 @@ let getHourTime = document.getElementById("hr")
 let getMinutesTime = document.getElementById("min") 
 let getSecondsTime = document.getElementById("sec")
  
+// STEP 2: create a that show live time and assign hour, minutes,and seconds to new variables
