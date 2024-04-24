@@ -20,5 +20,6 @@ body{
     width: 60%;
     background-color: black;
     padding: 50px;
-    
+    border-radius: 50% 50% 50% 50%;
+    border: antiquewhite 2px solid;
 }
