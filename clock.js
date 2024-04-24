@@ -2,4 +2,5 @@
 
 let getHourTime = document.getElementById("hr") 
 let getMinutesTime = document.getElementById("min") 
+let getSecondsTime = document.getElementById("sec")
  
