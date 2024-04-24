@@ -9,5 +9,6 @@ const showDigitalClock = () => {
     let getDate = new Date();
 
     let getHour = getDate.getHours().toString().padStart(2,"0");
+    let getMinutes = getDate.getMinutes().toString().padStart(2,"0");
     
 };
