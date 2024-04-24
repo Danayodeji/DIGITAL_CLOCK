@@ -15,4 +15,5 @@ const showDigitalClock = () => {
 // STEP 3 Display new content on the HTML
     getHourTime.textContent = getHour
     getMinutesTime.textContent = getMinutes
+    getSecondsTime.textContent = getSeconds
 };
