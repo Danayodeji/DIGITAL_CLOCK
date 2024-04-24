@@ -21,5 +21,8 @@ const showDigitalClock = () => {
 // STEP 4: The following code make the counting live 
 
 setInterval(() => {
-     
+     setInterval(() => {
+    showDigitalClock();
+}, 1000);
+
 });
