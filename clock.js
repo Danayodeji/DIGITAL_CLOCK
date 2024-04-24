@@ -12,6 +12,7 @@ const showDigitalClock = () => {
     let getMinutes = getDate.getMinutes().toString().padStart(2,"0");
     let getSeconds = getDate.getSeconds().toString().padStart(2,"0");
 
-// Display new content on the HTML
+// STEP 3 Display new content on the HTML
+getHourTime.textContent = getHour
     
 };
