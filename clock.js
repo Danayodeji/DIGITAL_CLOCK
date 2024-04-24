@@ -23,3 +23,5 @@ const showDigitalClock = () => {
 setInterval(() => {
     showDigitalClock();
 }), 1000;
+
+showDigitalClock();
