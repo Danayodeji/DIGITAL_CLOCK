@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+     
+}
+body{
+    background-color: #272b2f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+.clock_hold{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    min-height: 60px;
+    width: 60%;
+    background-color: black;
+    padding: 50px;
+    border-radius: 50% 50% 50% 50%;
+    border: antiquewhite 2px solid;
+    border-style:double;
+    
+}
+ 
+span{
+    font-size: 70pt;
+    align-self: flex-start;
+    color: aliceblue;
+}
+.item h1{
+    font-size: 80pt;
+    color: #ffffff;
+    let
+    
+}
+.item p{
+    font-size: 30pt;
+    color: aliceblue;
+    text-align: center;
+}
